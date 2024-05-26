@@ -1,0 +1,14 @@
+.btn-1, .btn-2 {
+    font-size: 24px;
+    font-family: Helvetica, sans-serif;
+}
+
+.btn-1 {
+    color: white;
+    background-color: black;
+}
+
+.btn-2 {
+    color: black;
+    background-color: yellow;
+}
